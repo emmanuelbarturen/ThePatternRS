@@ -2,6 +2,7 @@
     "name": "emm/the-pattern-rs",
     "description": "Base Files for Fast Development by Infinichichos",
     "homepage": "https://github.com/emmanuelbarturen/ThePatternRS",
+    "keywords": ["emmanuelbarturen","infinichichos"],
     "license": "MIT",
     "authors": [
         {
